@@ -3,7 +3,7 @@
 
   <img src="https://voices.whitman.syr.edu/wp-content/uploads/2015/05/Finance-Banner.png" width=80% height=80%>
 
-In this homework activity, I used all the skills I have learned until now - focusing on using APIs as part of the technical solution - to create two financial analysis tools.
+I used all the skills I have learned until now - focusing on using APIs as part of the technical solution - to create two financial analysis tools.
 
 **1- Personal Finance Planner** : This allows users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
 
